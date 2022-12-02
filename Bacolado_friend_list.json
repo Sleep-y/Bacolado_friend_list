@@ -1,0 +1,34 @@
+{
+    "First Name": "Jeff Conrad",
+    "Last Name": "Bacolado",
+    "Age": 21,
+    "Address": "Savannah, Iloilo City",
+    "Contact": "jeffconrad.bacolado-18@cpu.edu.ph",
+    "friend_list": 
+    [
+        {
+            "Name": "Asilanom Rice Senday",
+            "Age": 22,
+            "Address": "Pavia, Iloilo",
+            "Likes": "Ligo Legends",
+            "Dislikes": "BBM",
+            "Feeling": "Tired"
+        },
+        {
+            "Name": "Dale Arcilla",
+            "Age": 21,
+            "Address": "Jaro, Iloilo",
+            "Likes": "Gaming,Sleep,Ice Coffee",
+            "Dislikes": "Boring days",
+            "Feeling": "Tired"
+        },
+        {
+            "Name": "Ralfh Lourenze Juelar",
+            "Age": 20,
+            "Address": "Brgy,San Isidro Iloilo",
+            "Likes": "KPOP",
+            "Dislikes": "School",
+            "Feeling": "Downhearted"
+        }    
+    ]
+}
